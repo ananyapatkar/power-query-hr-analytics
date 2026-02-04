@@ -4,7 +4,7 @@
 This project focuses on performing **data transformation using Power Query** and building an **HR Analytics dashboard** using **Power BI Desktop**.  
 The dashboard helps analyze employee attrition, salary distribution, and workforce characteristics using cleaned and transformed HR data.
 
-## 🧰 Tools Used
+##  Tools Used
 - Power BI Desktop  
 - Power Query Editor  
 - HR Analytics Dataset (CSV)

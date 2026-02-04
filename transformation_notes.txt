@@ -1,0 +1,24 @@
+Power BI – Data Transformation using Power Query
+Dataset: HR Analytics
+
+1. The HR Analytics dataset was imported into Power BI Desktop using the Get Data option.
+
+2. Power Query Editor was opened to perform data cleaning and transformation operations.
+
+3. Unnecessary columns such as EmployeeCount, EmployeeNumber, Over18, and StandardHours were removed to reduce redundancy.
+
+4. Column headers were renamed to improve readability and understanding.
+
+5. Missing values were checked using filters and handled appropriately by replacing null values with meaningful defaults.
+
+6. Data types were verified and corrected. Numeric columns such as Age, Monthly Income, and Total Working Years were set to whole numbers, while categorical columns were set as text.
+
+7. The AgeGroup column was split into Start Age and End Age using the split by delimiter option.
+
+8. Conditional columns were created:
+   - Age Category (Young, Mid Age, Senior) based on Age.
+   - Salary Band (Low, Medium, High) based on Monthly Income.
+
+9. All transformations were applied and the cleaned data was loaded into the Power BI data model.
+
+10. Multiple visualizations were created using the transformed data to analyze employee attrition, salary distribution, and workforce patterns.
